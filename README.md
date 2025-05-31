@@ -1,5 +1,5 @@
 # Big Data Engineering - Schmerzgrenze der Wiener 
-Project "Schmerzgrenze der Wiener" / "Pain Tolerance of the Viennese" aims to correlate, visualize and find patterns in the Viennese public transport grid and public sentiment. 
+Project "Schmerzgrenze der Wiener" / "Pain Tolerance of the Viennese" aims to correlate, visualize and find patterns in the Viennese public transport grid and the weather. 
 
 ## Architecture: 
 ![image](https://github.com/jirn073-76/BDENG_Wiener_Linien/assets/54983399/72b35c4a-f81a-4230-8cf2-1a206f16a6db)
